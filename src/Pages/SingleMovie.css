@@ -1,0 +1,39 @@
+.single-product-content {
+    margin-left: 30px;
+    margin-top: 3rem;
+}
+
+.single-product {
+    margin-top: 4rem;
+}
+
+.single-product-content p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-top: 3rem;
+    font-weight: 500;
+}
+
+.single-product-img {
+    padding: 30px;
+    padding-bottom: 0;
+}
+
+.single-product-img img {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 20px #ddd;
+    box-shadow: 0 0 20px #ddd;
+    width: 330px;
+}
+
+.single-product-content h3 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #F28123;
+}
+
+.btnstyle {
+    margin-left: 2rem;
+    width: 110px;
+    margin-top: 2rem;
+}
